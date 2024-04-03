@@ -4,12 +4,9 @@
   "description": "A dummy npm lib",
   "main": "./build/src/index.js",
   "types": "./build/src/index.d.ts",
-  "files": [
-    "./build/**/*"
-  ],
   "scripts": {
     "build": "tsc",
-    "prepare": "npm run build"
+    "install": "npm run build"
   },
   "author": "",
   "license": "ISC",
