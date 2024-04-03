@@ -1,0 +1,11 @@
+{
+  "name": "dummy-lib",
+  "version": "1.0.0",
+  "description": "A dummy npm lib",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "echo [DUMMY LIB] PREPARE SCRIPT RUNNING"
+  },
+  "author": "",
+  "license": "ISC"
+}
