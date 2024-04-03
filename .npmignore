@@ -1,10 +1,2 @@
 node_modules/
-tests/
-docs/
-img/
-git-ignored/
-.vscode
-.env*
 tsconfig.json
-.eslintrc.json
-README.md
