@@ -1,1 +1,10 @@
 node_modules/
+src/
+tests/
+docs/
+img/
+git-ignored/
+.vscode
+.env*
+.eslintrc.json
+README.md
