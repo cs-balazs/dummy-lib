@@ -1,7 +1,7 @@
 {
   "name": "dummy-lib",
   "version": "1.0.0",
-  "description": "A dummy npm lib",
+  "description": "A dummy npm library",
   "main": "./build/src/index.js",
   "types": "./build/src/index.d.ts",
   "scripts": {
